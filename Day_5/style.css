@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://www.nestleprofessional.com.au/sites/default/files/styles/np_article_big/public/2023-07/Coffee%20Beans.jpg?h=3e16b80a&itok=UJJPilUG);
+}
+h1,h2,p{
+    text-align: center;
+}
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
