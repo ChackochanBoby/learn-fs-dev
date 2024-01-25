@@ -24,4 +24,20 @@ h1,h2,p{
     width: 25%;
     text-align: right;
 }
-/*testing*/
+.established{
+    font-style: italic;
+}
+h1,h2{
+    font-family: Impact,serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+hr{
+    border-color: brown;
+    background-color: brown;
+    height: 2px;
+}
