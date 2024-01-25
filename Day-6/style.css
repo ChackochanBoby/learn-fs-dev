@@ -15,6 +15,9 @@ h1,h2,p{
 }
 .item p{
     display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 .flavor,.dessert{
     width: 75%;
@@ -32,6 +35,8 @@ h1,h2{
 }
 h1{
     font-size: 40px;
+    margin-top: 0%;
+    margin-bottom: 15px;
 }
 h2{
     font-size: 30px;
@@ -40,4 +45,23 @@ hr{
     border-color: brown;
     background-color: brown;
     height: 2px;
+}
+footer{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.bottom-line{
+    margin-top: 25px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: brown;
+}
+a:visited{
+    color: black;
 }
