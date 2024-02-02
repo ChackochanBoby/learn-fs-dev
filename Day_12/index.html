@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Anime survey form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1 id="title">Anime survey form</h1>
+    <p id="description">please take time and fill the form</p>
+    <form id="survey-form" action="#">
+        <fieldset>
+            <h2>Personal details</h2>
+            <label id="name-label" for="name">Name</label><input type="text" id="name" placeholder="Enter name"
+                required>
+            <label id="email-label" for="email">Email</label><input type="email" id="email" placeholder="Enter email"
+                required>
+            <label id="number-label" for="number">Age</label><input type="number" id="number" min="12" max="120"
+                placeholder="Enter age" required>
+        </fieldset>
+        <fieldset>
+            <h2>Anime</h2>
+            <h3>Select your Favourite show:</h3>
+            <label for="dropdown">My favourite show is <select id="dropdown">
+                    <option value="">Select anime</option>
+                    <option value="attackOnTitan">Attack on Titan</option>
+                    <option value="myHeroAcademia">My Hero Academia</option>
+                    <option value="demonSlayer">Demon Slayer: Kimetsu no Yaiba</option>
+                    <option value="onePunchMan">One Punch Man</option>
+                    <option value="naruto">Naruto</option>
+                    <option value="deathNote">Death Note</option>
+                    <option value="fullmetalAlchemist">Fullmetal Alchemist: Brotherhood</option>
+                    <option value="onePiece">One Piece</option>
+                    <option value="hunterXHunter">Hunter x Hunter</option>
+                    <option value="steinsGate">Steins;Gate</option>
+                    <option value="yourLieInApril">Your Lie in April</option>
+                    <option value="swordArtOnline">Sword Art Online</option>
+                    <option value="tokyoGhoul">Tokyo Ghoul</option>
+                    <option value="mobPsycho100">Mob Psycho 100</option>
+                    <option value="blackClover">Black Clover</option>
+                    <option value="jojosBizarreAdventure">JoJo's Bizarre Adventure</option>
+                    <option value="cowboyBebop">Cowboy Bebop</option>
+                    <option value="dragonBallZ">Dragon Ball Z</option>
+                    <option value="neonGenesisEvangelion">Neon Genesis Evangelion</option>
+                </select></label>
+            <label for="ongoing-completed"><input type="radio" id="ongoing-completed" name="status" value="ongoing"
+                    checked> Ongoing</input>
+                <label for="ongoing-completed"><input type="radio" id="ongoing-completed" name="status"
+                        value="Completed"> Completed</input>
+        </fieldset>
+
+        <h3>Choose Anime Genres:</h3>
+
+        <label>
+            <input type="checkbox" name="genre" value="action">
+            Action
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="adventure">
+            Adventure
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="comedy">
+            Comedy
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="drama">
+            Drama
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="fantasy">
+            Fantasy
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="sliceOfLife">
+            Slice of Life
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="sciFi">
+            Science Fiction
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="mystery">
+            Mystery
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="horror">
+            Horror
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="romance">
+            Romance
+        </label><br>
+
+        <label>
+            <input type="checkbox" name="genre" value="sports">
+            Sports
+        </label><br>
+        </fieldset>
+        <fieldset>
+            <h3>why do you love this anime?</h3>
+            <label for="reasons" calss="reasons-label">Your reasons</label>
+            <textarea id="reasons" rows="4" cols="50">
+      </textarea>
+        </fieldset>
+        <button type="submit" id="submit">submit</button>
+    </form>
+</body>
+
+</html>
