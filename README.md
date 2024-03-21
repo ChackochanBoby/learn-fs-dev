@@ -10,9 +10,18 @@ As my projects grew and I gained more confidence in my web development skills, I
 
 You can find my latest web development projects hosted on Vercel. Here are the links to some of my recent projects:
 
-- [Project 1 Repository](link-to-project-1-repo)
-- [Project 2 Repository](link-to-project-2-repo)
-- [Project 3 Repository](link-to-project-3-repo)
+- [Day-27]((https://github.com/ChackochanBoby/single-price-grid-frntnd-mntr.git))
+- [Day-29]((https://github.com/ChackochanBoby/testimonials-grid-frntnd-mntr.git))
+- [Day-30,31]((https://github.com/ChackochanBoby/Project-coursera-clone.git))
+- [Day-32]((https://github.com/ChackochanBoby/Stat-preview-frntnd-mntr.git))
+- [Day-33](https://github.com/ChackochanBoby/order-summary-frntnd-mntr.git)
+- [Day-34](https://github.com/ChackochanBoby/js-sample-click-counter.git)
+- [Day-35](https://github.com/ChackochanBoby/order-summary-frntnd-mntr.git)
+
+
+## Special Note:
+
+On day 28 of my #100DaysOfCode challenge, I started work on an ecommerce website project. While the project isn't complete yet and I haven't hosted it on Vercel or created a separate repository, I did share a post about it on LinkedIn. You can check out the post and follow my progress there: [LinkedIn Post]([link-to-linkedin-post](https://www.linkedin.com/posts/chackochan-boby_100daysofcode-codingjourney-webdev-activity-7169747737394049025-sQuk?utm_source=share&utm_medium=member_desktop)).
 
 ## Connect with Me
 
