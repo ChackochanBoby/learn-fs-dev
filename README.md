@@ -10,13 +10,14 @@ As my projects grew and I gained more confidence in my web development skills, I
 
 You can find my latest web development projects hosted on Vercel. Here are the links to some of my recent projects:
 
-- [Day-27]((https://github.com/ChackochanBoby/single-price-grid-frntnd-mntr.git))
-- [Day-29]((https://github.com/ChackochanBoby/testimonials-grid-frntnd-mntr.git))
-- [Day-30,31]((https://github.com/ChackochanBoby/Project-coursera-clone.git))
-- [Day-32]((https://github.com/ChackochanBoby/Stat-preview-frntnd-mntr.git))
+- [Day-27](https://github.com/ChackochanBoby/single-price-grid-frntnd-mntr.git)
+- [Day-29](https://github.com/ChackochanBoby/testimonials-grid-frntnd-mntr.git)
+- [Day-30,31](https://github.com/ChackochanBoby/Project-coursera-clone.git)
+- [Day-32](https://github.com/ChackochanBoby/Stat-preview-frntnd-mntr.git)
 - [Day-33](https://github.com/ChackochanBoby/order-summary-frntnd-mntr.git)
 - [Day-34](https://github.com/ChackochanBoby/js-sample-click-counter.git)
-- [Day-35](https://github.com/ChackochanBoby/order-summary-frntnd-mntr.git)
+- [Day-35](https://github.com/ChackochanBoby/js-sample-BlackJack.git)
+- [Day-36]()
 
 
 ## Special Note:
